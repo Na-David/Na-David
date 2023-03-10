@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/david-na-03a076176/" target="_blank"><img src="https://img.shields.io/badge/David-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+
 
 
 
@@ -6,7 +6,14 @@
 
 -------------------------------------------------------------------------------------------------------------------
 
+- 🔭 I’m currently in my third-year of my **Bachelor of Computer and Information Science(BCIS)** at AUT
+- 🌱 I’m currently learning overall **Software Development** processes
+- 👯 I’m looking for work in **frontend** || **full-stack** development roles
+- ⚡ Fun fact: I am currently learning Japanese ひらがな＆＆カタカナ
 
+- 📫 How to reach me: ... </br>
+  <a href="https://www.linkedin.com/in/david-na-03a076176/" target="_blank"><img src="https://img.shields.io/badge/hna206@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/david-na-03a076176/" target="_blank"><img src="https://img.shields.io/badge/David-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 
 
 <!--
@@ -14,13 +21,9 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 -->
