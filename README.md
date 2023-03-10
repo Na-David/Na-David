@@ -25,8 +25,6 @@ Languages and Tools:</br>
 <a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
 
 
-
-
 </br>
 
 - Tools </br>
@@ -41,9 +39,7 @@ Languages and Tools:</br>
 <a href="https://firebase.google.com" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
 <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 
-</br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=na-david&show_icons=true&theme=tokyonight)
-</br>
+
 </br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=na-david&layout=compact&theme=tokyonight)
@@ -51,6 +47,9 @@ Languages and Tools:</br>
 <!--
 **Na-David/Na-David** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+</br>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=na-david&show_icons=true&theme=tokyonight)
+</br>
 
 Here are some ideas to get you started:
 - 💬 Ask me about ...
