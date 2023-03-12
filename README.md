@@ -29,7 +29,7 @@ Languages and Tools:</br>
 
 - Tools </br>
 <a href="https://visualstudio.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
-<a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VS-Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
+<a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <a href="https://www.github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=Blazor&logoColor=white"/></a>
 <a href="https://www.mongodb.com" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
