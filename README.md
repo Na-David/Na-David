@@ -44,6 +44,7 @@ Languages and Tools:</br>
 </br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Na-David&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=na-david&show_icons=true"/>
 
 <!--
 **Na-David/Na-David** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
