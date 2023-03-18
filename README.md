@@ -41,7 +41,7 @@ Languages and Tools:</br>
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Na-David&layout=compact&theme=tokyonight)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=na-david&show_icons=true&layout=compact&theme=tokyonight"/>
 
@@ -53,6 +53,7 @@ Languages and Tools:</br>
 </br>
 <a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
 <a href="https://www.heroku.com" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Na-David&layout=compact&theme=tokyonight)
 
 
 Here are some ideas to get you started:
