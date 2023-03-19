@@ -7,7 +7,7 @@
 -------------------------------------------------------------------------------------------------------------------
 
 - 🔭 I’m currently in my third-year of my **Bachelor of Computer and Information Science(BCIS)** at AUT(Software Development)
-- 🌱 I’m currently learning --> **React && Python(ML)** 
+- 🌱 I’m currently learning --> **React.js** 
 - 👯 I’m looking for work in **frontend** || **full-stack** development roles
 - ⚡ Fun fact: I am currently learning Japanese ひらがな＆＆カタカナ
 
