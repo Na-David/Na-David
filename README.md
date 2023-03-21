@@ -7,7 +7,7 @@
 -------------------------------------------------------------------------------------------------------------------
 
 - 🔭 I’m currently in my third-year of my **Bachelor of Computer and Information Science(BCIS)** at AUT(Software Development)
-- 🌱 I’m currently learning --> **React.js** 
+- 🌱 I’m currently learning --> **React.js && php** 
 - 👯 I’m looking for work in **frontend** || **full-stack** development roles
 - ⚡ Fun fact: I am currently learning Japanese ひらがな＆＆カタカナ
 
@@ -22,6 +22,8 @@ Languages and Tools:</br>
 <a href="https://www.javascript.com" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://camo.githubusercontent.com/e6400f0a9c729ab0fb35794676595158ea65e9da35cef85c29a2ae0ebe2e5702/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432532332d3233393132303f7374796c653d666c61742d737175617265266c6f676f3d437368617270266c6f676f436f6c6f723d7768697465"/></a>
+<a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
+
 
 
 </br>
@@ -51,7 +53,6 @@ Languages and Tools:</br>
 </br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=na-david&show_icons=true&theme=tokyonight)
 </br>
-<a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
 <a href="https://www.heroku.com" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>
 <a href="https://www.selenium.dev" target="_blank"><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Na-David&layout=compact&theme=tokyonight)
