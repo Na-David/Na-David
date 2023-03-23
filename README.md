@@ -38,6 +38,7 @@ Languages and Tools:</br>
 <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <a href="https://firebase.google.com" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
 <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+<a href="https://www.heroku.com" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>
 
 
 
@@ -53,7 +54,7 @@ Languages and Tools:</br>
 </br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=na-david&show_icons=true&theme=tokyonight)
 </br>
-<a href="https://www.heroku.com" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>
+
 <a href="https://www.selenium.dev" target="_blank"><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Na-David&layout=compact&theme=tokyonight)
 
