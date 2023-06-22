@@ -41,12 +41,13 @@ Languages and Tools:</br>
 
 </br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=na-david&show_icons=true&theme=tokyonight)
 
 <!--
 **Na-David/Na-David** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 </br>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=na-david&show_icons=true&theme=tokyonight)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=na-david&show_icons=true&theme=tokyonight)
 </br>
 
