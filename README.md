@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I am currently learning Japanese ひらがな＆＆カタカナ
 
 - 📫 How to reach me: 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/hna206@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> ||
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/work@davidna.info-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> ||
   <a href="https://www.linkedin.com/in/david-na-03a076176/" target="_blank"><img src="https://img.shields.io/badge/David-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 ---
 Languages and Tools:</br>
