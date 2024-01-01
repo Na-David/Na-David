@@ -6,7 +6,7 @@
 
 -------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently in my third-year of my **Bachelor of Computer and Information Science(BCIS)** at AUT(Software Development)
+- 🔭 Graduated **Bachelor of Computer and Information Science(BCIS)** at AUT(Software Development)
 - 🌱 I’m currently learning --> **React.js && php** 
 - 👯 I’m looking for work in **frontend** || **full-stack** development roles
 - ⚡ Fun fact: I am currently learning Japanese ひらがな＆＆カタカナ
